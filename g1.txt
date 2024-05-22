@@ -1,1 +1,3 @@
 Hi i am learning Devops and Git.
+
+Learning linux
